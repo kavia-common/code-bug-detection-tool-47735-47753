@@ -1,0 +1,4 @@
+{
+    "command": "dotnet test",
+    "working_directory": "/home/kavia/workspace/code-generation/code-bug-detection-tool-47735-47753/bug_detector_backend"
+}
